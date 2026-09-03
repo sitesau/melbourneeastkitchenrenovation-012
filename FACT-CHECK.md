@@ -1,0 +1,17 @@
+| Claim | Verdict | Evidence |
+|---|---|---|
+| Melbourne East Kitchen Renovations publishes services including full kitchen renovations, custom cabinetry and joinery, stone and benchtop installation, kitchen design and planning, kitchen makeovers and period or heritage kitchen renovations. | SUPPORTED | Money page lists those service tiles: “Full Kitchen Renovations,” “Custom Cabinetry & Joinery,” “Stone & Benchtop Installation,” “Kitchen Design & Planning,” “Kitchen Makeovers & Refresh,” and “Period & Heritage Kitchen Renovations.” |
+| The published service area includes Box Hill, Doncaster, Camberwell, Glen Waverley and the wider eastern suburbs. | SUPPORTED | Money page says it designs, builds and installs kitchens across “Box Hill, Doncaster, Camberwell, Glen Waverley and the wider eastern suburbs.” |
+| The source page says every project starts with a measure-up and an itemised fixed-scope quote. | SUPPORTED | Money page says “Every project starts with a measure-up and an itemised, fixed-scope quote.” |
+| The source page says the renovation process is free measure-up, design and quote, build and install, and handover. | SUPPORTED | Money page’s process section lists “01 Free measure-up,” “02 Design and quote,” “03 Build and install,” and “04 Handover.” |
+| The source page says cost depends on scope, access, cabinetry and benchtop choices. | SUPPORTED | Money page FAQ says “Cost depends on scope, access, cabinetry and benchtop choices.” |
+| The source page says a makeover that keeps the existing layout sits well below a full rebuild with custom joinery and structural change. | SUPPORTED | Money page says this directly in the cost FAQ. |
+| The source page says a typical full kitchen renovation runs about 6 to 12 weeks from contract to handover. | SUPPORTED | Money page says “A typical full kitchen renovation runs about 6 to 12 weeks from contract to handover.” |
+| The source page says cabinetry and stone fabrication take roughly 4 to 6 weeks of lead time. | SUPPORTED | Money page says “Cabinetry and stone fabrication take roughly 4 to 6 weeks of lead time.” |
+| The source page says on-site work is usually 2 to 4 weeks for install, plumbing, electrical and tiling, followed by finishing. | SUPPORTED | Money page says on-site work is “usually 2 to 4 weeks for install, plumbing, electrical and tiling, followed by finishing.” |
+| The source page says a written contract is required for a major domestic building contract over $10,000 under the Domestic Building Contracts Act 1995. | SUPPORTED | Money page says this in the written contract FAQ. |
+| The source page says domestic building insurance is required on residential building work above the current threshold, commonly cited at $16,000. | SUPPORTED | Money page says domestic building insurance is required above the current threshold, “commonly cited at $16,000.” |
+| The source page says engineered stone with 1% or more crystalline silica was banned for manufacture, supply, processing and installation across Australia from 1 July 2024. | SUPPORTED | Money page says engineered stone with 1% or more crystalline silica was banned for those activities across Australia from 1 July 2024. |
+| The source page lists porcelain, sintered stone, natural granite or marble, solid timber, stainless steel, laminate and low-silica engineered stone under 1% crystalline silica as alternatives. | SUPPORTED | Money page lists those alternatives in the engineered stone FAQ. |
+
+FACT-CHECK: PASS
